@@ -1,0 +1,13 @@
+requirements are : 
+cv2
+numpy 
+matplotlib
+
+you must install it using :
+
+pip install cv2
+pip install numpy
+pip install matplotlib
+
+thats it for any issu contact me on zidmoh75@gmail.com 
+                                  or eidros183@gmail.com
